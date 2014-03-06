@@ -1,6 +1,6 @@
 {
 	"name": "filetools",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"readmeFilename": "README.md",
 	"description": "文件处理",
 	"homepage": "https://github.com/Johnqing/fileParse",

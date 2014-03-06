@@ -138,7 +138,7 @@ var readFileSync = exports.readFileSync = function() {
         content = content.slice(1);
     }
     return content;
-},
+}
 /**
  * 文件写入
  * @param file
