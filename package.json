@@ -13,15 +13,15 @@
 
 	},
 	"keywords": [
-	    "file",
-	    "parse",
-	    "tools"
+		"file",
+		"parse",
+		"tools"
 	],
-  "author": {
-    "name": "Liu Qing",
-    "email": "csssnow@gmail.com",
-    "url": "http://liuqing.pw/"
-  },
+	"author": {
+		"name": "Liu Qing",
+		"email": "csssnow@gmail.com",
+		"url": "http://liuqing.pw/"
+	},
 	"optionalDependencies": {},
 	"license": "BSD"
 }
